@@ -2,7 +2,7 @@
 <br>
 👀 I'm interested in web development and creating intuitive user experiences.
 <br>
-🌱 I'm currently learning about the latest frontend technologies and exploring new approaches to backend development.
+🌱 I'm working in latest frontend technologies and exploring new approaches to backend development.
 <br>
 💞️ I'm looking to collaborate on interesting and meaningful projects with like-minded developers.
 <br>
