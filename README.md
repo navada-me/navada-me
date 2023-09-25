@@ -1,6 +1,6 @@
 👋 Hi, I'm Perminder Singh 
 <br>
-👀 I'm interested in web development and creating intuitive user experiences.
+👀 I'm full stack developer.
 <br>
 🌱 I'm working in latest frontend technologies and exploring new approaches to backend development.
 <br>
